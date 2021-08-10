@@ -4,17 +4,17 @@ An ambient weather station making use of SeeedStudio's Grove sensors, based arou
 ## Prerequisites and Library Installation
 
 After flashing the Jetson Nano and connecting it to the internet via an ethernet cable or to a WiFi network using a [dongle](https://github.com/SmartCowAi/Jetson-WifiDongle-Drivers), open a terminal window, clone this repository and **cd** into it.
-``
+```
 git clone https://github.com/SmartCowAi/jetson-nano-weather-station.git
 cd jetson-nano-weather-station
-``
+```
 
 Included in the repository is a library installation script, *library_installer.sh* to automatically download and install the linux packages and python libraries required to communicate with the station's peripherals.
 
-``
+```
 sudo chmod +x installer.sh
 sudo ./library_installer.sh
-``
+```
 
 ## Usage
 
