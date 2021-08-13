@@ -1,5 +1,5 @@
 # jetson-nano-weather-station
-An ambient weather station making use of SeeedStudio's Grove sensors, based arount Nvidia's Jetson Nano 2GB Development Kit, as documented in our blog series [here](https://medium.com/@Smartcow_ai/a-jetson-nano-ambient-weather-station-part-1-c93cae197dcf).
+An ambient weather station making use of SeeedStudio's Grove sensors, based arount Nvidia's Jetson Nano 2GB Development Kit, as documented in our blog series: [Part 1](https://medium.com/@Smartcow_ai/a-jetson-nano-ambient-weather-station-part-1-c93cae197dcf), [Part 2](https://medium.com/@Smartcow_ai/a-jetson-nano-ambient-weather-station-part-2-d3233104b6ab), Part 3, Part 4.
 
 ## Prerequisites and Library Installation
 
