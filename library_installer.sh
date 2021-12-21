@@ -20,3 +20,4 @@ pip3 install --upgrade adafruit-circuitpython-bme680
 pip3 install --upgrade adafruit-circuitpython-ssd1306
 pip3 install --upgrade freetype-py
 pip3 install --upgrade Pillow
+pip3 install --upgrade Adafruit-SSD1306
